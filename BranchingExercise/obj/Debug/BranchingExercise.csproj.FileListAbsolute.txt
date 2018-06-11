@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\consoleApp1\Branching\Branching\BranchingExercise\BranchingExercise\obj\Debug\BranchingExercise.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\Branching\Branching\BranchingExercise\BranchingExercise\obj\Debug\BranchingExercise.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\Branching\Branching\BranchingExercise\BranchingExercise\bin\Debug\BranchingExercise.exe.config
+C:\Users\micha\OneDrive\Desktop\consoleApp1\Branching\Branching\BranchingExercise\BranchingExercise\bin\Debug\BranchingExercise.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\Branching\Branching\BranchingExercise\BranchingExercise\bin\Debug\BranchingExercise.pdb
+C:\Users\micha\OneDrive\Desktop\consoleApp1\Branching\Branching\BranchingExercise\BranchingExercise\obj\Debug\BranchingExercise.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\Branching\Branching\BranchingExercise\BranchingExercise\obj\Debug\BranchingExercise.pdb
